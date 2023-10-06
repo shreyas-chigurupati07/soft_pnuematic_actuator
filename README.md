@@ -6,5 +6,5 @@ Analysis of bending abilities of Soft Pneumatic Actuator
 * #### Problem statement
 * #### Methodolgy
 * #### Reults
-* Conclusion
-* License
+* #### Conclusion
+* #### License
